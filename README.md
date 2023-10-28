@@ -23,9 +23,11 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Deployment and Repo Links
 
-
+Repo: https://github.com/Bwainuna/13-E-commerce
 
 ## Video Link
+
+Tutorial Video : https://youtu.be/phvBfemhwRM
 
 ## Sources
 
